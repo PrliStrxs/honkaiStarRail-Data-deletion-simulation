@@ -1,0 +1,78 @@
+  <#ChrysOsHeirs:Entity> >> DELETION_SEQUENCE INITIATED
+  TARGET_PATH:#AMPHOREUS>>████████████████
+  HOST_IO>>OFFLINE
+  REALITY_THREAD >> INTERRUPTED
+
+
+  <#ChrysosHeirs::Entity> DELETION_SEQUENCE INITIATED
+  SIGNATURE CONFIRMING (#ChrysosHeirs)... >>████INVALID████
+  FIREWALL_CHECKING... >> BYPASSED
+  PROCESS_KILL (#ChrysosHeirs:█████) >> DONE
+  amphoreusCache█████: CLEAN_UP() >> COMPLETED
+  TARGET_PATH #AMPHOREUS >>████████████████████████
+  [ALERT]#ChrysosHeirs registry entry >> NON-RESIDENT
+  [NOTICE] #ChrysosHeirs memory reference >>████████████████
+  #ChrysosHeirs registry entry >> NON-RESIDENT
+  a00llocated_storage::Float >>██████████████████████{████████ of total ████████████}
+  metadata entries >>████████████
+  [WARNING] All metadata entries scheduled for removal
+
+
+  <#ChrysosHeirs:Entity> DELETION_SEQUENCE INITIATED BY δ-me13.exe
+  SIGNATURE(#ChrysosHeirs)>>████INVALID ████
+  FIREWALL >> BYPASSED
+  PROCESS_KILL(#ChrysosHeirs::Core)>> SUCCESS
+  TARGET_PATH:#AMPHOREUS>>████████████████████████
+  M0EMORY(#ChrysosHeirs)>>███████████████████████δ-me13.exe
+  TERMINATION_STATUS:██████████████████████
+
+  <#ChrysOsHeirs:Entity>DELETION_SEQUENCE INITIATED
+  SIGNATURE CONFIRMING..>>DISCONF████████████████████ICONFIRMED
+  FIREWALL CHECKING...> QUAORZAJIN_ALGEBRAIC_EXPRESSION_UNDETEC███████
+  PROCESS_KILL(#ChrysosHeirs::Core)>> SUCCESS
+  amphoreusCache█████: CLEAN_UP() >> COMPLETED
+  TERMINATING.>>FAILEI
+  [█████] Entity memory ron-resident.
+  [█████]Proceedi█████████████████████████state_aqnostic_deletion_sequence.
+
+  SCANNING >>DONE
+  allocated_storage::Float >> █████████████████████████{█████%。 of total ██████████}
+  [█████]
+  [WARNING] TARGET VOLUME WILL BE PERMANENTLY DESTROYED,INCLUDING:
+  [WARNING] All entries in metadata █████
+  PROCESS_KILL(#ChrysosHeirs::Core)>> SUCCESS
+  TARGET_PATH:#AMPHOREUS>>████████████████████████
+  [ALERT]#ChrysosHeirs registry entry >> NON-RESIDENT
+  SIGNATURE CONFIRMING..>>DISCONF████████████████████ICONFIRMED
+
+  SIGNATURE CONFIRMING (#ChrysosHeirs)... >>████INVALID████
+  HOST_IO>>OFFLINE
+  [█████]Proceedi█████████████████████████state_aqnostic_deletion_sequence.
+
+  <#ChrysOsHeirs:Entity> >> DELETION_SEQUENCE INITIATED
+  TARGET_PATH:#AMPHOREUS>>████████████████
+  HOST_IO>>OFFLINE
+  REALITY_THREAD >> INTERRUPTED
+
+
+  <#ChrysosHeirs::Entity> DELETION_SEQUENCE INITIATED
+  SIGNATURE CONFIRMING (#ChrysosHeirs)... >>████INVALID████
+  FIREWALL_CHECKING... >> BYPASSED
+  PROCESS_KILL (#ChrysosHeirs:█████) >> DONE
+  amphoreusCache█████: CLEAN_UP() >> COMPLETED
+  TARGET_PATH #AMPHOREUS >>████████████████████████
+  [ALERT]#ChrysosHeirs registry entry >> NON-RESIDENT
+  [NOTICE] #ChrysosHeirs memory reference >>████████████████
+  #ChrysosHeirs registry entry >> NON-RESIDENT
+  a00llocated_storage::Float >>██████████████████████{████████ of total ████████████}
+  metadata entries >>████████████
+  [WARNING] All metadata entries scheduled for removal
+
+
+  <#ChrysosHeirs:Entity> DELETION_SEQUENCE INITIATED BY δ-me13.exe
+  SIGNATURE(#ChrysosHeirs)>>████INVALID ████
+  FIREWALL >> BYPASSED
+  PROCESS_KILL(#ChrysosHeirs::Core)>> SUCCESS
+  TARGET_PATH:#AMPHOREUS>>████████████████████████
+  M0EMORY(#ChrysosHeirs)>>███████████████████████δ-me13.exe
+  TERMINATION_STATUS:██████████████████████
