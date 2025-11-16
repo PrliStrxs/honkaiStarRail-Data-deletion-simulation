@@ -5,6 +5,7 @@ import time
 from PIL import Image, ImageDraw, ImageFont, ImageTk
 import sys
 
+
 class FixedTransparentErrorSimulator:
     def __init__(self, total_duration_seconds=30, progress_update_interval_ms=100):
         # 窗口与画布
